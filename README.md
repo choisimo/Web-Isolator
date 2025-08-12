@@ -1,6 +1,9 @@
-# Project Isolator
+# web Isolator
 
 개발 환경 격리를 위한 통합 플랫폼 - 다중 프로젝트 로컬 개발 환경 관리 시스템
+
+<img width="2650" height="1896" alt="image" src="https://github.com/user-attachments/assets/7f8111ae-f05b-4b69-af1a-f82a7912ce93" />
+
 
 ## 개요
 
