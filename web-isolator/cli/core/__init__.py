@@ -1,0 +1,1 @@
+# Core modules for Web Isolator 2.0
